@@ -1,0 +1,15 @@
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\bin\Debug\MSA_M1.dll
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\bin\Debug\MSA_M1.pdb
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\bin\Debug\Xamarin.Forms.Core.dll
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\bin\Debug\Xamarin.Forms.Core.xml
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\obj\Debug\MSA_M1.csprojResolveAssemblyReference.cache
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\obj\Debug\MSA_M1.MainPage.xaml.g.cs
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\obj\Debug\MSA_M1.App.xaml.g.cs
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\obj\Debug\MSA_M1.dll
+D:\Users\Sam\工作\Visual Studio 2017\MSA_M1\MSA_M1\MSA_M1\obj\Debug\MSA_M1.pdb

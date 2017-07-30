@@ -1,0 +1,2 @@
+android.app.Application
+MSA_M1.Android
